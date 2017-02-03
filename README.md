@@ -1,2 +1,2 @@
 # ColorGame
-RGB Color Game
+RGB Color Guessing Game
